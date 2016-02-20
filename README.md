@@ -1,6 +1,8 @@
 # A boilerplate for python Telegram Bots
 Get your telegram bot key and insert into the bot.py file. Follow deployment instructions to get the initial environment setup.
 
+I use the [Telepot](https://github.com/nickoala/telepot "Telepot") framework.
+
 To run locally inside of your virtual environment, just run
 	python bot.py
 
