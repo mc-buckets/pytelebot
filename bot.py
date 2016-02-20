@@ -21,7 +21,7 @@ $ python2.7 telegram webhook AWS lambda
 #TODO: Add messages for empty news sets
 
 
-bot = telepot.Bot('')
+bot = telepot.Bot('BOT KEY')
 
 
 ###All the command and chat handlers
