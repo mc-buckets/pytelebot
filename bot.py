@@ -87,7 +87,7 @@ def handle(msg):
 # def my_handler(event, context):
 #     print("Received event: " + json.dumps(event, indent=2))
 #     handle(event['message'])
-#     return('Hopefully it sent...')
+
 
 ##FOR LOCAL DEV
 def my_handler(event):
